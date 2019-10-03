@@ -1,0 +1,22 @@
+
+<cases:attributeGroupsSaveMessage
+    xsi:schemaLocation="http://www.emaxx.org/functional/cases http://www.emaxx.org/functional/cases/attributeGroupsSaveMessage.xsd"
+    xmlns:tn="http://www.backend.com/testservice" xmlns:cases="http://www.emaxx.org/functional/cases"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <cases:attributeGroups>
+        <cases:attributeGroup>
+            <cases:name>GGR Aanvraag</cases:name>
+            <cases:index>0</cases:index>
+            <cases:attributes>
+                <cases:attribute>
+                     <cases:name>Vergunningnummer</cases:name>
+                        <cases:value>336233</cases:value>
+                </cases:attribute>
+                <cases:attribute>
+                     <cases:name>K2Pzaaknummer</cases:name>
+                        <cases:value>443395</cases:value>
+                </cases:attribute>
+            </cases:attributes>
+         </cases:attributeGroup>
+    </cases:attributeGroups>
+</cases:attributeGroupsSaveMessage>

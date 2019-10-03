@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Parameters for the genericSOAPAction -->
+<genericSOAPAction
+	xmlns="http://www.emaxx.org/functional/genericSOAPAction"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.emaxx.org/functional/genericSOAPAction GenericSOAPActionConfig.xsd ">
+	<url>http://guweb304.domstad.org:53202/Ppvsw010/Ppvsw010.svc</url>
+	<soapAction>http://www.centric.eu/key2parkeren/IAanvraag/AanvraagRequest</soapAction>
+	<!-- The name of the template to use to fill the SOAP request XML -->
+	<inputTemplateName>GGP_aanvraag</inputTemplateName>
+	<outputTemplateName>GGP_aanvraag_response</outputTemplateName>
+</genericSOAPAction>

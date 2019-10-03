@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:Envelope	xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+	<SOAP-ENV:Header xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" />
+	<s:Body xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<Vergunning xmlns="http://www.centric.eu/key2parkeren">
+			<Rvergunning>336233</Rvergunning>
+			<Kstatusvergunning>AB</Kstatusvergunning>
+			<Rzaak>443395</Rzaak>
+			<Rsbj>138000</Rsbj>
+		</Vergunning>
+	</s:Body>
+</s:Envelope>
